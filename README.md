@@ -1,5 +1,5 @@
 # streamlit_fastapi_credit_risk
- Advancement of credit_risk_classification_model with fastapi and streamlit
+ Advancement of credit_risk_classification_model with fastapi and streamlit!
 
 Ini adalah pengembangan lanjutan dari model klasifikasi credit_risk yang sudah dikembangkan dalam repository lain. Silakan cek di credit_risk_classification_model. Pengembangan terbesarnya ada pada pemenggalan proses persiapan, pembersihan, penyimpanan, pemodelan, dan evaluasi yang disimpan dalam file dan folder yang berbeda. Dengan file dan folder yang berbeda, proses pengubahan code dapat berlangsung dalam fase yang lebih ringkas. Berikut adalah struktur foldernya:
 
