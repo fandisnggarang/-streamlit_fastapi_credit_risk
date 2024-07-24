@@ -1,0 +1,10 @@
+fastapi==0.111.1
+joblib==1.4.2
+pandas==2.2.2
+numpy==2.0.0
+seaborn==0.13.2
+matplotlib==3.9.1
+pydantic==2.8.2
+Requests==2.32.3
+scikit_learn==1.5.1
+streamlit==1.36.0
